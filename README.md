@@ -1,1 +1,1 @@
-# A virtual flippy do for online use
+# A virtual flippy do for online learning
